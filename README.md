@@ -6,7 +6,7 @@
 
 💼 Work experience:
 
-- Software Engineer @[Helcim](https://www.helcim.com/) <sub>working on payment transactions for SMBs</sub>
+- Software Engineer @[Helcim](https://www.helcim.com/) <sub>working on orchestrating payments for SMBs</sub>
 
 [![My Skills](https://skillicons.dev/icons?i=css,docker,express,gcp,git,go,html,java,js,jquery,kafka,kubernetes,laravel,materialui,mongodb,mysql,nextjs,nginx,nodejs,php,pinia,postgres,postman,py,react,regex,sass,sqlite,tailwind,terraform,ts,vite,vue&perline=7)](https://skillicons.dev)
 
