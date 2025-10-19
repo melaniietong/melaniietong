@@ -2,7 +2,7 @@
 
 👋 I'm Melanie, and I like to build meaningful things with technology
 
-🫶 Always open to collaborating
+🫶 Always open to collaborating and learning
 
 💼 Work experience:
 
