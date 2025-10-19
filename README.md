@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🐈‍⬛ Hi!
 
-<!--
-**melaniietong/melaniietong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Melanie, and I like to build meaningful things with technology
 
-Here are some ideas to get you started:
+🫶 Always open to collaborating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Work experience:
+
+- Software Engineer @[Helcim](https://www.helcim.com/) <sub>working on payment transactions for SMBs</sub>
+
+[![My Skills](https://skillicons.dev/icons?i=css,docker,express,gcp,git,go,html,java,js,jquery,kafka,kubernetes,laravel,materialui,mongodb,mysql,nextjs,nginx,nodejs,php,pinia,postgres,postman,py,react,regex,sass,sqlite,tailwind,terraform,ts,vite,vue&perline=7)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ae,figma,ai,ps,pr&perline=7)](https://skillicons.dev)
